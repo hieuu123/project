@@ -6,7 +6,7 @@
     <title>Select RSS Feed</title>
 </head>
 <body>
-    <h1>Hello</h1>
+    <h1>Heading1</h1>
 
     <form action="fc.php" method="post">
         <label for="rss-feed">Chọn thể loại:</label>
