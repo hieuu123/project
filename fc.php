@@ -55,7 +55,7 @@ function generateArticle($content, $language) {
         $flattenedContent = array_merge($flattenedContent, $content['normal']);
     }
 
-    $api_key = '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';
+    $api_key = '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';
     $endpoint = 'https://api.openai.com/v1/chat/completions';
     $output = '';
 
